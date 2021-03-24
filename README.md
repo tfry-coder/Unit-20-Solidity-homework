@@ -11,3 +11,10 @@ tierdprofitsplitter confirmed
 ![image](https://user-images.githubusercontent.com/71101118/112158594-b3b59100-8bbe-11eb-96c5-55fd92815e69.png)
 Ganache addresses used
 ![image](https://user-images.githubusercontent.com/71101118/112158720-d051c900-8bbe-11eb-9f6d-544b27c482b2.png)
+
+Working remix code deferredequityplan
+![image](https://user-images.githubusercontent.com/71101118/112237485-28b5b480-8c19-11eb-89e0-ce0527aed597.png)
+deferredequityplan confirmed
+![image](https://user-images.githubusercontent.com/71101118/112237555-497e0a00-8c19-11eb-9860-bbc5ad8221c5.png)
+Ganache addresses used
+![image](https://user-images.githubusercontent.com/71101118/112237595-60246100-8c19-11eb-9faf-2932d8bb90e3.png)
