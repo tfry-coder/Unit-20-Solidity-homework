@@ -26,3 +26,6 @@ associatedprofitsplitter
 tieredprofitsplitter
 ![image](https://user-images.githubusercontent.com/71101118/112323293-0909a500-8c88-11eb-90c6-8dcdf9798693.png)
 ![image](https://user-images.githubusercontent.com/71101118/112323381-1de63880-8c88-11eb-9a53-fefcb5ea42c1.png)
+deferredequityplan
+![image](https://user-images.githubusercontent.com/71101118/112324554-4f133880-8c89-11eb-8797-6710d2b2b638.png)
+![image](https://user-images.githubusercontent.com/71101118/112324959-aaddc180-8c89-11eb-9cb8-2465fa83d737.png)
