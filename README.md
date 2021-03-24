@@ -13,11 +13,10 @@ Ganache addresses used
 ![image](https://user-images.githubusercontent.com/71101118/112158720-d051c900-8bbe-11eb-9f6d-544b27c482b2.png)
 
 Working remix code deferredequityplan
-![image](https://user-images.githubusercontent.com/71101118/112237485-28b5b480-8c19-11eb-89e0-ce0527aed597.png)
+![image](https://user-images.githubusercontent.com/71101118/112326083-98b05300-8c8a-11eb-9594-bf9dfae654b4.png)
 deferredequityplan confirmed
-![image](https://user-images.githubusercontent.com/71101118/112237555-497e0a00-8c19-11eb-9860-bbc5ad8221c5.png)
-Ganache addresses used
-![image](https://user-images.githubusercontent.com/71101118/112237595-60246100-8c19-11eb-9faf-2932d8bb90e3.png)
+![image](https://user-images.githubusercontent.com/71101118/112326235-baa9d580-8c8a-11eb-80c2-347f4ddf7e90.png)
+![image](https://user-images.githubusercontent.com/71101118/112326323-cc8b7880-8c8a-11eb-9e84-ec8b36b8076c.png)
 
 Ropsten tests
 associatedprofitsplitter
